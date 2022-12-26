@@ -8,7 +8,6 @@ import SearchPage from './components/SearchPage'
 import MovieDetails from './components/MovieDetails'
 import AccountPage from './components/AccountPage'
 import NotFoundPage from './components/NotFoundPage'
-import NavBar from './components/NavBar'
 
 import './App.css'
 
@@ -27,3 +26,4 @@ const App = () => (
 )
 
 export default App
+Footer
