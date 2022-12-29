@@ -14,3 +14,4 @@ const HomeMovieItems = props => {
   )
 }
 export default HomeMovieItems
+
