@@ -43,4 +43,4 @@ const AccountPage = props => {
   )
 }
 
-export default AccountPage
+export default AccountPag
