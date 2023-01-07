@@ -22,7 +22,7 @@ const AccountPage = props => {
         <div className="member-ship-details">
           <p className="member-ship-text">Member ship</p>
           <div className="userDetails">
-            <p className="username">Rahul@gmail.com</p>
+            <p className="username">neelamallikarjun86@gmail.com</p>
             <p className="password">Password</p>
             <span>: **********</span>
           </div>
